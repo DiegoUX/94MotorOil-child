@@ -6,6 +6,6 @@
 ####Libraries
 
 - [HTML5 Blank WP Theme](http://html5blank.com/)
-- [Bootstrap](hhttp://getbootstrap.com/)
+- [Bootstrap](http://getbootstrap.com/)
 - [Compass](http://compass-style.org/)
 - [Modernizr](http://modernizr.com/)
