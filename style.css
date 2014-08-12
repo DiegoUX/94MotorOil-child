@@ -1,14 +1,13 @@
 /*
-	Theme Name: 94 Motor Oil theme
-	Theme URI: http://html5blank.com
-	Description: HTML5 Blank WordPress Theme
-	Version: 1.4.3
-	Author: The UX Department
-	Author URI: http://toddmotto.com
-	Tags: Blank, HTML5, CSS3
-
-	License: MIT
-	License URI: http://opensource.org/licenses/mit-license.php
+ Theme Name:   94 Motor Oil Child
+ Theme URI:    http://example.com/motor-oil-child/
+ Description:  94 Motor Oil Child Theme
+ Author:       The UX Department
+ Author URI:   http://theuxdepartment.com
+ Template:     94MotorOil
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  94MotorOil-child
 */
 
 @import url("../94MotorOil/style.css");
